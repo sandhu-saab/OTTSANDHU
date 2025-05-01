@@ -1,5 +1,5 @@
-# Don't Remove Credit @Ott_Sandhu, @Baii_Ji
-# Ask Doubt on telegram @Baii_Ji
+#Ott_Sandhu 
+#Baii_Ji on Tg
 
 import motor, asyncio
 import motor.motor_asyncio
