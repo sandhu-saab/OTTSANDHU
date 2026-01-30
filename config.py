@@ -19,8 +19,8 @@ API_ID = "29882686"
 API_HASH = "b642a25aee67b2aed02116df4a916bca"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://sukhwinder020202:store1234@cluster0.rzrwnui.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = "sukhwinder020202"
+DB_URI = "mongodb+srv://sukhwinder088877:singh8877@cluster0.u2gw0sc.mongodb.net/?appName=Cluster0"
+DB_NAME = "sukhwinder088877"
 
 FSUBS = [[-1002429510787, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
